@@ -1,0 +1,10 @@
+.nav {
+  align-items: center;
+}
+nav a.selected {
+  border: 1px solid black;
+}
+
+hr {
+  width: 100%;
+}
